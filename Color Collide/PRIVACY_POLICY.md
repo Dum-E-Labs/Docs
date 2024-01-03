@@ -1,10 +1,10 @@
 # Privacy Policy for Color Collide
-Last updated: 02/01/2024
+Last updated: 03/01/2024
 
 Thank you for using Color Collide (the "App") created by Dum-E Labs ("I," "me," or "my"). This Privacy Policy outlines how I collect, use, and disclose information obtained from users of the Color Collide App.
 
 ### Information Collection and Use:
-- I do not collect any personal information from users of the App.
+- I do not knowingly collect any personal information from users of the App.
 - The App may collect usage data for analytical purposes, such as device type, operating system, and general usage statistics. This data is collected anonymously and cannot be used to personally identify individuals.
 ### Children's Privacy:
 - I do not knowingly collect personal information from children under the age of 13. If a parent or guardian becomes aware that their child has provided me with personal information, they should contact me at the email address provided below, and I will promptly delete such information.
